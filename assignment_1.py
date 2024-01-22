@@ -5,8 +5,8 @@ Created on Sat Jan 20 19:33:26 2024
 @author: Jahna
 """
 import matplotlib.pyplot as plt
-i = 3
-j = 8
+i = 1
+j = 5
 
 chain = [i,j]
 
